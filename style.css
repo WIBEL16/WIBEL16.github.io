@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+#meme-image {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
